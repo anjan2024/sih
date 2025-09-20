@@ -1,16 +1,14 @@
-# Welcome to your Lovable project
+welcome to the project made by team greenovators
 
 ## Project info
 
-**URL**: https://lovable.dev/projects/bba44f4e-e862-4b25-9188-eeb63c7922c6
+this project is based on prolem statement 25008 ; A Gamified learning platform to learn environmental ethics 
 
-## How can I edit this code?
+this project uses tecnologies like typescript , nodejs, react and talwind css , other than it also includes an agentic ai that guides a student through the entire learning journey.
 
-There are several ways of editing your application.
 
-**Use Lovable**
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/bba44f4e-e862-4b25-9188-eeb63c7922c6) and start prompting.
+
 
 Changes made via Lovable will be committed automatically to this repo.
 
@@ -60,11 +58,6 @@ This project is built with:
 - shadcn-ui
 - Tailwind CSS
 
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/bba44f4e-e862-4b25-9188-eeb63c7922c6) and click on Share -> Publish.
-
-## Can I connect a custom domain to my Lovable project?
 
 Yes, you can!
 
